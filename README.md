@@ -108,7 +108,7 @@ go test -v ./...
 or
 
 ```bash
-make run
+make test
 ```
 
 ##### main_test.go
